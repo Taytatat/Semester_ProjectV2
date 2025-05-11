@@ -5,3 +5,6 @@
 ds = date and time (calcualated in 30 mintue intervals
 
 yhat = the predicted number of staff needed in the given room (i rounded all answers to the nearest number)
+
+
+Model is still incomplete as still need to collect a few more forecast. Treat everything here as in progress
